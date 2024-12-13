@@ -1,0 +1,105 @@
+* {
+  background-color: papayawhip;
+  font-family: "Edu AU VIC WA NT Pre", serif;
+  font-optical-sizing: auto;
+  font-weight: 400-700;
+  font-style: normal;
+}
+header h1 {
+  background-color: rgb(58, 24, 1);
+  color: white;
+  text-align: center;
+}
+nav a:link,
+nav a:visited {
+  color: white;
+  background-color: rgb(97, 44, 9);
+  padding: 8px;
+  text-decoration: none;
+}
+nav a:hover {
+  color: rgb(97, 44, 9);
+  background-color: white;
+  text-decoration: none;
+  padding: 8px;
+}
+
+nav {
+  background-color: rgb(97, 44, 9);
+  text-align: center;
+  padding: 15px;
+}
+.one,
+.one h2,
+p {
+  background-color: rgb(253, 218, 162);
+  color: rgb(97, 44, 9);
+  text-align: center;
+  border-radius: 4px;
+}
+.cake {
+  width: 350px;
+  height: auto;
+  background-color: rgb(253, 218, 162);
+}
+.two {
+  border: 2px solid rgb(253, 218, 162);
+  color: rgb(97, 44, 9);
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 4px;
+}
+
+.yellow {
+  color: rgb(97, 44, 9);
+}
+.green {
+  color: rgb(97, 44, 9);
+}
+
+.yellow:hover {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.green:hover {
+  background-color: yellowgreen;
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.three {
+  border: 2px solid rgb(253, 218, 162);
+  color: rgb(97, 44, 9);
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 4px;
+}
+.four {
+  background-image: url(cup\ cake.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 4px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-decoration: none;
+}
+.end:link,
+.end:visited {
+  color: rgb(97, 44, 9);
+  background-color: rgb(255, 255, 255);
+  padding: 6px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+footer p{
+  background-color: rgb(97, 44, 9);
+  color: rgb(253, 218, 162);
+  text-align: center;
+  padding: 10px;
+}
